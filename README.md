@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=Hello+there!!+👋🏼;+My+name's+Luã+Lafayete;Software+Engineering+👨🏼‍💻;Welcome!😊;)](https://git.io/typing-svg)
 
-- 🔭 Estou trabalhando com back-end and flertando com FullStack
-- 🌱 Estou aperfeiçoando C#
+- 🔭 Back-end e FullStack
+- 🌱 Melhorando meu desenvolvimento com a linguagem C#
+- 📚 Nos tempo livres ensino inglês para Devs e futuros devs
 
 <div align="center">
   <a href="https://github.com/luanlafayete">
